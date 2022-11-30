@@ -1,0 +1,24 @@
+Lista telefonia trabalho 
+
+classe Pessoa
+nome string
+endereço classe endereço 
+telefone String
+
+sub classe extends Pessoa
+Amigos
+String localidade
+String aniversário
+
+Família
+String parentesco
+String aniversário
+
+Profissional
+String descrição
+
+Agenda
+Array de objetos -> incuir, alterar, listar(Ordem Alfabética), excluir
+
+Tratamento de exceção
+psição do array inexistente indexboudexception
